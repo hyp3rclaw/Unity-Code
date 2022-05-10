@@ -10,3 +10,5 @@ view point -> to set camera rotation,
 ground check-> to check player postion from ground and enable jump,
 
 ray cast is also enabled
+
+#part2
